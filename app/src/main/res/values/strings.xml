@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quizgame</string>
+    <string name="new_score_item">New score item</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+
+
+    <string name="name">Name</string>
+
+
+
+
+</resources>
